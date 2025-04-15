@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Objects;
 
 /**
- * @Desc: 实现springCloud提供的接口,相当于实体类,存放的是LoadBalancerClient注解中的name和configuration
+ * @Desc: 接收LoadBalancerClient注解中的name和configuration
  * @Author：zhh
  * @Date：2025/4/9 11:17
  */
